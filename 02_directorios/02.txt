@@ -1,0 +1,5 @@
+En que directorio estoy ubicado
+
+	pwd
+
+Arbol de directorios

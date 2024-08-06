@@ -1,0 +1,4 @@
+Buscando archivos y directorios
+
+	find -iname
+	find -depth -iname

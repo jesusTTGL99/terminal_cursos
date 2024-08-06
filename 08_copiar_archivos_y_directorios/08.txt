@@ -1,0 +1,4 @@
+Copiando archivos y directorios
+
+	cp
+	cp -r

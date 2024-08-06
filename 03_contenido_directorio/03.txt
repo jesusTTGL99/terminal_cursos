@@ -1,0 +1,3 @@
+Listando el contenido de un directorio
+
+	ls

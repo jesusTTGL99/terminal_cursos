@@ -1,0 +1,8 @@
+Borrando archivos y directorios
+
+	rm
+	rm -r
+
+moviendo archivos y directorios
+
+	mv

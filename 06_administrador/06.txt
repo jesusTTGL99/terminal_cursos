@@ -1,0 +1,3 @@
+Jugando con la terminal y convirtiendome en administrador
+
+	sudo

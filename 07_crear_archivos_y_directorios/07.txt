@@ -1,0 +1,5 @@
+Creando archivos y directorios
+
+	touch
+	echo
+	mkdir
